@@ -63,7 +63,7 @@ Create a droplet inside Digital Ocean platform. When creating the droplet make s
 2. Download this script
 
 ```sh
-wget https://raw.githubusercontent.com/pharmarat/Ubuntu-Desktop-Installation-Script/main/install.sh
+wget https://github.com/pharmarat/Ubuntu-Desktop-Installation-Script/releases/download/latest/install.sh
 ```
 
 3. Make the script executable
