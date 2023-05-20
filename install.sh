@@ -22,15 +22,15 @@ function show_progress() {
 
 # Update and upgrade system
 echo "Updating system..."
-sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update && sudo apt-get upgrade -y
 
 # Install Ubuntu Desktop
 echo "Installing Ubuntu Desktop..."
-sudo apt install ubuntu-desktop
+sudo apt install ubuntu-desktop -y
 
 # Install Firefox
 echo "Installing Firefox..."
-sudo snap install firefox
+sudo snap install firefox -y
 
 # Download and install NoMachine
 echo "Downloading NoMachine..."
