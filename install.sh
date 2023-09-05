@@ -35,4 +35,4 @@ wget https://download.nomachine.com/download/8.5/Linux/nomachine_8.5.3_1_amd64.d
 echo -e "${YELLOW}Installing NoMachine...${NC}"
 sudo dpkg -i nomachine_8.5.3_1_amd64.deb
 
-echo -e "${GREEN}Installation completed!${NC}"
+echo -e "${GREEN}Installation completed! Please reboot your machine by typing 'reboot'${NC}"
