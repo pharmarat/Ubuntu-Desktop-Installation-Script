@@ -36,3 +36,5 @@ echo -e "${YELLOW}Installing NoMachine...${NC}"
 sudo dpkg -i nomachine_8.5.3_1_amd64.deb
 
 echo -e "${GREEN}Installation completed! Please reboot your machine by typing 'reboot'${NC}"
+
+# End of script
